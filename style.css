@@ -466,8 +466,8 @@ color: var(--first-color);
     }
 
     .home__img{
-        width: 457px;
-        bottom: 15%;
+        width: 257px;
+        bottom: 50%;
     }
 
     .about__container, .skills__container {
