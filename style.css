@@ -150,6 +150,12 @@ img{
     margin-bottom: var(--mb-4);
 }
 
+
+.nav__list{
+    margin-right: 2rem;
+    padding-right:0;
+}
+
 .nav__link{
     position: relative;
     color:#fff;
