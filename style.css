@@ -161,6 +161,11 @@ img{
     color:#fff;
     }
 
+    .nav__link2 {
+            text-decoration: none;
+            color:#fff;
+    }
+
 .nav__link:hover{
     position: relative;
 }
