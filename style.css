@@ -337,6 +337,11 @@ color: var(--first-color);
     width: 80%;
 }
 
+.skills__react{
+    width: 55%;
+}
+
+
 .skills__img{
     border-radius: .5rem; 
 }
@@ -395,7 +400,7 @@ color: var(--first-color);
 }
 
 .footer__title{
-    font-size: 2rem;
+    font-size: 1.4rem;
     margin-bottom: var(--mb-4);  
 }
 
